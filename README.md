@@ -3,6 +3,8 @@
 **GPT Note App** is a Kotlin-based mobile application that serves as a standard note-taking app with an added feature allowing users to send prompts to OpenAI's ChatGPT API directly from their notes. Users can highlight text in their notes or write a prompt in the title, click a button, and receive a response from ChatGPT.
 
 Quick overview:
+
+
 ![overview](https://github.com/user-attachments/assets/a5f19521-bf04-48a2-9593-476b610eacc1)
 
 
